@@ -1,14 +1,14 @@
 [
   {
     "name": "evilclub-csgo",
-    "desc": "Last update: 11 Jul 2025"
-    "link": "https://github.com/thek0st/mydll/raw/refs/heads/main/csgo-release.dll"
+    "desc": "Last update: 11 Jul 2025",
+    "link": "https://github.com/thek0st/mydll/raw/refs/heads/main/csgo-release.dll",
     "mem": "False"
   },
   {
     "name": "skeet-csgo",
-    "desc": "Last update: 27 Dec 2024"
-    "link": "https://github.com/thek0st/mydll/raw/refs/heads/main/skeet.dll"
+    "desc": "Last update: 27 Dec 2024",
+    "link": "https://github.com/thek0st/mydll/raw/refs/heads/main/skeet.dll",
     "mem": "True"
   }
 ]
