@@ -8,7 +8,7 @@
   },
   {
     "name": "csgo-skeet",
-    "desc": "Last update: 27Dec2024\nStatus: Work",
+    "desc": "Last update: 27Dec2024\nStatus: work",
     "link": "https://github.com/thek0st/mydll/raw/refs/heads/main/skeet.dll",
     "mem": "True",
     "process": "csgo.exe"
