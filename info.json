@@ -1,14 +1,14 @@
 [
   {
-    "name": "evilclub-csgo",
-    "desc": "Last update: 11 Jul 2025\nStatus: Work",
+    "name": "csgo-evilclub",
+    "desc": "Last update: 11Jul2025\nStatus: work",
     "link": "https://github.com/thek0st/mydll/raw/refs/heads/main/csgo-release.dll",
     "mem": "False",
     "process": "csgo.exe"
   },
   {
-    "name": "skeet-csgo",
-    "desc": "Last update: 27 Dec 2024\nStatus: Work",
+    "name": "csgo-skeet",
+    "desc": "Last update: 27Dec2024\nStatus: Work",
     "link": "https://github.com/thek0st/mydll/raw/refs/heads/main/skeet.dll",
     "mem": "True",
     "process": "csgo.exe"
