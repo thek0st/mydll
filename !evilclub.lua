@@ -1,4 +1,3 @@
---[Obfuscated by Hercules v1.6.2 | hercules-obfuscator.xyz/discord | hercules-obfuscator.xyz/source]
 return (function(...) local function PjZyEDLyQqA(xxtWxRMNUOXU)
     return (xxtWxRMNUOXU >= 48 and xxtWxRMNUOXU <= 57) or (xxtWxRMNUOXU >= 65 and xxtWxRMNUOXU <= 90) or (xxtWxRMNUOXU >= 97 and xxtWxRMNUOXU <= 122)
 end
