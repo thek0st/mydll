@@ -14,5 +14,13 @@
     "mem": "True",
     "process": "csgo.exe",
     "deps": "https://github.com/thek0st/mydll/raw/refs/heads/main/!evilclub.lua"
+  },
+  {
+    "name": "csgo-weave",
+    "desc": "Last update: 06Dec2024\nStatus: work",
+    "link": "https://github.com/thek0st/mydll/raw/refs/heads/main/csgo-weave.dll",
+    "mem": "False",
+    "process": "csgo.exe",
+    "deps": "0"
   }
 ]
