@@ -16,7 +16,7 @@
     "deps": "0"
   },
   {
-    "name": "!csgo-skeet",
+    "name": "csgo-skeet",
     "desc": "Last update: 27Dec2024\nStatus: on update",
     "link": "https://github.com/thek0st/mydll/raw/refs/heads/main/skeet.dll",
     "mem": "True",
@@ -32,4 +32,3 @@
     "deps": "0"
   }
 ]
-
