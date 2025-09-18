@@ -8,8 +8,8 @@
     "deps": "0"
   },
   {
-    "name": "csgo-evilclubV2",
-    "desc": "Last update: 25Aug2025\nStatus: work",
+    "name": "csgo-evilclub2",
+    "desc": "Last update: 18Sep2025\nStatus: work",
     "link": "https://github.com/thek0st/mydll/raw/refs/heads/main/csgo_internal.dll",
     "mem": "False",
     "process": "csgo.exe",
