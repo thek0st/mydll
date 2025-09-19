@@ -1,6 +1,6 @@
 [
   {
-    "name": "csgo-evilclub",
+    "name": "csgo-evclub",
     "desc": "Last update: 11Jul2025\nStatus: work",
     "link": "https://github.com/thek0st/mydll/raw/refs/heads/main/csgo-release.dll",
     "mem": "False",
@@ -8,7 +8,7 @@
     "deps": "0"
   },
   {
-    "name": "csgo-evilclub2",
+    "name": "csgo-evclubv2",
     "desc": "Last update: 18Sep2025\nStatus: work",
     "link": "https://github.com/thek0st/mydll/raw/refs/heads/main/csgo_internal.dll",
     "mem": "False",
