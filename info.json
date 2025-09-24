@@ -9,7 +9,7 @@
   },
   {
     "name": "csgo-evclubv2",
-    "desc": "Last update: 18Sep2025\nStatus: work",
+    "desc": "Last update: 24Sep2025\nStatus: work",
     "link": "https://github.com/thek0st/mydll/raw/refs/heads/main/csgo_internal.dll",
     "mem": "False",
     "process": "csgo.exe",
@@ -33,4 +33,5 @@
   }
 
 ]
+
 
